@@ -1,4 +1,4 @@
-# Welcome to My GitHub Profile!
+# Welcome to My GitHub Profile! 😎
 
 ## About Me
 Hi! I'm @tsiendragon, a passionate developer with a keen interest in Artificial Intelligence and Generative AI. I'm currently exploring the exciting world of AIGC.
