@@ -1,34 +1,20 @@
-# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.
+# Welcome to My GitHub Profile!
 
-Welcome to my page! </br> I'm @tsiendragon, a developer from [Your Location].
+## About Me
+Hi! I'm @tsiendragon, a passionate developer with a keen interest in Artificial Intelligence and Generative AI. I'm currently exploring the exciting world of AIGC.
 
-## Interests
+## Skills
 <p>
-  <img alt="Deep Learning" src="https://img.shields.io/badge/-Deep%20Learning-FF6F00?style=flat-square&logo=deeplearning&logoColor=white" />
-  <img alt="PyTorch" src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
   <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img alt="PyTorch" src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
+  <img alt="Deep Learning" src="https://img.shields.io/badge/-Deep%20Learning-FF6F00?style=flat-square&logo=deeplearning&logoColor=white" />
   <img alt="AIGC" src="https://img.shields.io/badge/-AIGC-FF4081?style=flat-square&logo=artificial-intelligence&logoColor=white" />
-  <!-- Add more technologies as needed -->
+  <img alt="LaTeX" src="https://img.shields.io/badge/-LaTeX-008080?style=flat-square&logo=latex&logoColor=white" />
 </p>
 
-## Currently Learning
-- AIGC
-
-## Open source projects
-<table>
-  <thead align="center">
-    <tr border: none;>
-      <td><b>🎁 Projects</b></td>
-      <td><b>⭐ Stars</b></td>
-      <td><b>📚 Forks</b></td>
-      <td><b>🛎 Issues</b></td>
-      <td><b>📬 Pull requests</b></td>
-    </tr>
-  </thead>
-  <tbody>
-    <!-- Add projects as needed -->
-  </tbody>
-</table>
+## Projects
+- **Project Name 1**: Brief description of the project. [GitHub Link](#)
+- **Project Name 2**: Brief description of the project. [GitHub Link](#)
 
 ## List of Publications
 - [Separability of completely symmetric states in a multipartite system](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&oe=GB&user=krc-mOgAAAAJ&citation_for_view=krc-mOgAAAAJ:zYLM7Y9cAGgC)
@@ -39,21 +25,19 @@ Welcome to my page! </br> I'm @tsiendragon, a developer from [Your Location].
 - [Enhance capability of separable ball criterion for the bipartite quantum states](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&oe=GB&user=krc-mOgAAAAJ&citation_for_view=krc-mOgAAAAJ:Tyk-4Ss8FVUC)
 - [A Study on Quantum Entanglement](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&oe=GB&user=krc-mOgAAAAJ&citation_for_view=krc-mOgAAAAJ:qjMakFHDy7sC)
 
-## My latest posts
+## My Latest Posts
 <ul>
   <li><a href="https://mad-sg.github.io/generative-ai-start-to-surrender/"><b>Generative AI: Start to Surrender</b></a><br/><i>An exploration of the latest trends in generative AI.</i></li>
 </ul>
 
-## Where to find me
+## Where to Find Me
 <p>
   <a href="https://github.com/tsiendragon" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-tsiendragon-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/lilong-qian-a1475818b/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://scholar.google.com/citations?hl=zh-CN&user=krc-mOgAAAAJ" target="_blank"><img alt="Google Scholar" src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" /></a>
 </p>
 
-<!---
-tsiendragon/tsiendragon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+![Profile Views](https://komarev.com/ghpvc/?username=tsiendragon&color=blue)
 
 ![](https://github-readme-stats.vercel.app/api?username=tsiendragon)
