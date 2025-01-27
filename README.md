@@ -1,4 +1,4 @@
-# Welcome to My GitHub Profile! :wave::tada:
+# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>  Welcome to My GitHub Profile! :wave::tada:
 
 ## About Me :robot:
 Hi! I'm @tsiendragon, a passionate developer with a keen interest in Artificial Intelligence and Generative AI. I'm on a thrilling journey exploring the world of AIGC, where creativity meets technology!
