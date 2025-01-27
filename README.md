@@ -11,6 +11,9 @@ Welcome to my page! </br> I'm @tsiendragon, a developer from [Your Location].
   <!-- Add more technologies as needed -->
 </p>
 
+## Currently Learning
+- AIGC
+
 ## Open source projects
 <table>
   <thead align="center">
@@ -27,18 +30,26 @@ Welcome to my page! </br> I'm @tsiendragon, a developer from [Your Location].
   </tbody>
 </table>
 
+## List of Publications
+- [Separability of completely symmetric states in a multipartite system](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&oe=GB&user=krc-mOgAAAAJ&citation_for_view=krc-mOgAAAAJ:zYLM7Y9cAGgC)
+- [A matrix inequality for entanglement distillation problem](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&oe=GB&user=krc-mOgAAAAJ&citation_for_view=krc-mOgAAAAJ:d1gkVwhDpl0C)
+- [Separability of multipartite quantum states with strong positive partial transpose](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&oe=GB&user=krc-mOgAAAAJ&citation_for_view=krc-mOgAAAAJ:UeHWp8X0CEIC)
+- [Separability of symmetric states and vandermonde decomposition](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&oe=GB&user=krc-mOgAAAAJ&citation_for_view=krc-mOgAAAAJ:2osOgNQ5qMEC)
+- [Decomposition of completely symmetric states](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&oe=GB&user=krc-mOgAAAAJ&citation_for_view=krc-mOgAAAAJ:9yKSN-GCB0IC)
+- [Enhance capability of separable ball criterion for the bipartite quantum states](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&oe=GB&user=krc-mOgAAAAJ&citation_for_view=krc-mOgAAAAJ:Tyk-4Ss8FVUC)
+- [A Study on Quantum Entanglement](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&oe=GB&user=krc-mOgAAAAJ&citation_for_view=krc-mOgAAAAJ:qjMakFHDy7sC)
+
 ## My latest posts
 <ul>
-  <!-- Add articles as needed -->
+  <li><a href="https://mad-sg.github.io/generative-ai-start-to-surrender/"><b>Generative AI: Start to Surrender</b></a><br/><i>An exploration of the latest trends in generative AI.</i></li>
 </ul>
 
-## Dynamic Content
-<p>Currently, the weather is: <b>[Weather Info]</b></br>Today, the sun rises at <b>[Sunrise Time]</b> and sets at <b>[Sunset Time]</b>.</p>
-
 ## Where to find me
-<p><a href="https://github.com/tsiendragon" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-tsiendragon-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
+<p>
+  <a href="https://github.com/tsiendragon" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-tsiendragon-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/lilong-qian-a1475818b/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://scholar.google.com/citations?hl=zh-CN&user=krc-mOgAAAAJ" target="_blank"><img alt="Google Scholar" src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" /></a>
 </p>
-
 
 <!---
 tsiendragon/tsiendragon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
