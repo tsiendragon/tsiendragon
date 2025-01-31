@@ -3,6 +3,8 @@
 ## About Me :robot:
 Hi! I'm @tsiendragon, a passionate developer with a keen interest in Artificial Intelligence and Generative AI. I'm on a thrilling journey exploring the world of AIGC, where creativity meets technology!
 
+![Metrics](/github-metrics.svg)
+
 ## Skills :rocket::sparkles:
 <p>
   <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
