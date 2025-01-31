@@ -14,8 +14,15 @@ Hi! I'm @tsiendragon, a passionate developer with a keen interest in Artificial 
   <img alt="LaTeX" src="https://img.shields.io/badge/-LaTeX-008080?style=flat-square&logo=latex&logoColor=white" />
 </p>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tsiendragon/tsiendragon/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tsiendragon/tsiendragon/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/tsiendragon/tsiendragon/output/github-contribution-grid-snake.svg">
+</picture>
+
 ## Projects :bulb:
 - :star: [Generative AI: Start to Surrender](https://github.com/MAD-SG/generative-ai-start-to-surrender): Dive into the world of generative AI!
+- :star: [Learning](https://github.com/tsiendragon/learning): Personal blog and learning journey documentation.
 - :star: [NUS PhD Thesis LaTeX Template](https://github.com/tsiendragon/NUS-PhD-Thesis-LaTeX-Template): A comprehensive LaTeX template for NUS PhD theses.
 - :star: [Separability](https://github.com/tsiendragon/Separability): Explore quantum state separability. (Dead)
 - :star: [TA](https://github.com/tsiendragon/TA): Teaching Assistant resources and tools. (Dead)
@@ -32,6 +39,7 @@ Hi! I'm @tsiendragon, a passionate developer with a keen interest in Artificial 
 ## My Latest Posts :mega::newspaper:
 <ul>
   <li>:pencil: <a href="https://mad-sg.github.io/generative-ai-start-to-surrender/"><b>Generative AI: Start to Surrender</b></a><br/><i>An exploration of the latest trends in generative AI that you won't want to miss!</i></li>
+  <li>:pencil: <a href="https://tsiendragon.github.io/learning/index.html"><b>My Learning Journey</b></a><br/><i>Join me as I share insights and experiences from my continuous learning path!</i></li>
 </ul>
 
 ## Where to Find Me :globe_with_meridians::handshake:
@@ -42,3 +50,5 @@ Hi! I'm @tsiendragon, a passionate developer with a keen interest in Artificial 
 </p>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=tsiendragon&color=blue)
+
+![IceEnd's GitHub stats](https://github-immortality.vercel.app/api?username=tsiendragon)
