@@ -20,6 +20,16 @@ I'm a passionate developer and researcher with a keen interest in Artificial Int
 
 </div>
 
+## Contact Me :mailbox:
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/lilong-qian-a1475818b)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/ssqianlilong/)
+[![Zhihu](https://img.shields.io/badge/Zhihu-0084FF?style=for-the-badge&logo=zhihu&logoColor=white)](https://www.zhihu.com/people/tsiendragon)
+[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=krc-mOgAAAAJ&hl=zh-CN)
+
+</div>
+
 ## Tech Stack :hammer_and_wrench:
 <div align="center">
   <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
