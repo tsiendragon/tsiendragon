@@ -32,10 +32,10 @@ I'm a passionate developer and researcher with a keen interest in Artificial Int
 ## Featured Projects :bulb:
 <div align="center">
   <a href="https://github.com/MAD-SG/generative-ai-start-to-surrender">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MAD-SG&repo=generative-ai-start-to-surrender&theme=tokyonight" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MAD-SG&repo=generative-ai-start-to-surrender&theme=transparent" />
   </a>
   <a href="https://github.com/tsiendragon/learning">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=tsiendragon&repo=learning&theme=tokyonight" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=tsiendragon&repo=learning&theme=transparent" />
   </a>
 </div>
 
@@ -52,7 +52,9 @@ I'm a passionate developer and researcher with a keen interest in Artificial Int
 - 📄 [A matrix inequality for entanglement distillation problem](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&oe=GB&user=krc-mOgAAAAJ&citation_for_view=krc-mOgAAAAJ:d1gkVwhDpl0C)
 - 📄 [Separability of multipartite quantum states with strong positive partial transpose](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&oe=GB&user=krc-mOgAAAAJ&citation_for_view=krc-mOgAAAAJ:UeHWp8X0CEIC)
 - 📄 [A Study on Quantum Entanglement](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&oe=GB&user=krc-mOgAAAAJ&citation_for_view=krc-mOgAAAAJ:qjMakFHDy7sC)
-</details>
+- 📄 [Separability of symmetric states and vandermonde decomposition](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&oe=GB&user=krc-mOgAAAAJ&citation_for_view=krc-mOgAAAAJ:2osOgNQ5qMEC)
+- 📄 [Decomposition of completely symmetric states](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&oe=GB&user=krc-mOgAAAAJ&citation_for_view=krc-mOgAAAAJ:9yKSN-GCB0IC)
+- 📄 [Enhance capability of separable ball criterion for the bipartite quantum states](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&oe=GB&user=krc-mOgAAAAJ&citation_for_view=krc-mOgAAAAJ:Tyk-4Ss8FVUC)
 
 ## Latest Blog Posts :mega::newspaper:
 <div align="center">
@@ -72,3 +74,7 @@ I'm a passionate developer and researcher with a keen interest in Artificial Int
 
   ![Profile Views](https://komarev.com/ghpvc/?username=tsiendragon&color=blueviolet&style=for-the-badge)
 </div>
+
+## leetcode
+
+![Lilong's LeetCode stats neutral](https://leetcode-badge-sage.vercel.app/badge/ssqianlilong?theme=neutral)
