@@ -44,9 +44,9 @@ I'm a passionate developer and researcher with a keen interest in Artificial Int
   <a href="https://github.com/MAD-SG/generative-ai-start-to-surrender">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=MAD-SG&repo=generative-ai-start-to-surrender&theme=transparent" />
   </a>
-  <a hred="https://github.com/tsiendragon/qwen-image-finetune">
+  <a href="https://github.com/tsiendragon/qwen-image-finetune">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=tsiendragon&repo=qwen-image-finetune&theme=transparent" />
-  </a>a
+  </a>
   <a href="https://github.com/tsiendragon/learning">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=tsiendragon&repo=learning&theme=transparent" />
   </a>
